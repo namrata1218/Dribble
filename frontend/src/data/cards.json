@@ -1,0 +1,23 @@
+[
+    {
+        "key":1,
+        "description":"I'm a designer looking to share my work",
+        "detail":"Lorem ipsum dolor sit amet.",
+        "photos":"../../images/image2.jpg",
+        "altdes":"image1"
+    },
+    {
+        "key":2,
+        "description":"I'm looking to hire a designer",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit.lfebjbjhbsfjhbsjhsbhjsbsjhbfbnv bn vnbnv   bbebfjf emnfe ",
+        "photos":"../../images/image3.jpg",
+        "altdes":"image2"
+    },
+    {
+        "key":3,
+        "description":"I'm looking for design inspiration",
+        "detail":"Lorem, ipsum dolor sit amet consectetur adipisicing.",
+        "photos":"../../images/image1.jpg",
+        "altdes":"image3"
+    }
+]
